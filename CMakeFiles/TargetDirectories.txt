@@ -1,0 +1,3 @@
+/home/andry/labAK/roma/CMakeFiles/rebuild_cache.dir
+/home/andry/labAK/roma/CMakeFiles/edit_cache.dir
+/home/andry/labAK/roma/CMakeFiles/Tutorial.dir
