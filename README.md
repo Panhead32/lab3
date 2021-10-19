@@ -1,5 +1,4 @@
-# lab3
-<h1>--Help</h3>
+<h1>Help</h3>
 <line>
 <span>
   --help -h  
