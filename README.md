@@ -1,13 +1,13 @@
 <h1>Help</h3>
 <line>
 <span>
-  --help -h  
+  --help / -h  
 </span>
   <br>
   <span>
-  --list -l 
+  --list / -l 
 </span>
     <br>
   <span>
-  --version -v  
+  --version / -v  
 </span>
