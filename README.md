@@ -3,11 +3,11 @@
 <span>
   --help -h  
 </span>
-  
+  <br>
   <span>
   --list -l 
 </span>
-  
+    <br>
   <span>
   --version -v  
 </span>
